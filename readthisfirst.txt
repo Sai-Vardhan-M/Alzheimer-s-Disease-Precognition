@@ -2,7 +2,8 @@ I have done a project on Alzheimers Disease Precognition.
 For code you can check the other files i have uploaded, one of them contains explanation of the code.
 Dataset Link : https://www.kaggle.com/datasets/katalniraj/adni-extracted-axial
 
-Output Test Accuracy : 99.71%
+For understandding the Code and to check Accuracy yyou can check "Understanding Code.ipynb" which resides in my repository.
+
 I got a increased accuracy with this dataset.
 Expected Test Accuracy : 99.5%
-Test Accuracy : 99.71%
+Test Accuracy : 99.81%
